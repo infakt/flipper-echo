@@ -16,3 +16,4 @@
 mkmf.log
 assets
 *.gem
+.ruby-version
