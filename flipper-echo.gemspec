@@ -20,9 +20,9 @@ Gem::Specification.new do |spec|
 
   spec.required_ruby_version = '>= 2.5'
 
-  spec.add_dependency 'flipper', '0.15'
+  spec.add_dependency 'flipper'
 
-  spec.add_development_dependency 'bundler',   '~> 2.2'
+  spec.add_development_dependency 'bundler',   '>= 2.2'
   spec.add_development_dependency 'rake',      '~> 13'
   spec.add_development_dependency 'rspec',     '~> 3.2'
   spec.add_development_dependency 'simplecov', '~> 0.9'
